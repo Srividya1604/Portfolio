@@ -243,6 +243,26 @@ p .names{
   /* width: 250px; */
 }
 
+@media screen and (max-width: 1024px){
+  .home__img{
+    display: none;
+    margin-top:0%;
+  }
+
+}
+
+@media screen and (max-width: 768px){
+  .home__img{
+    display: none;
+    margin-top:0%;
+  }
+  .home__social{
+ display: none;
+  }
+}
+
+
+
 /*BUTTONS*/
 .button{
   display: inline-block;
