@@ -339,7 +339,7 @@ p .names{
   z-index: var(--z-back);
 }
 .skills__PS{
-  width: 85%;
+  width: 80%;
 }
 .skills__ilu{
   width: 90%;
@@ -349,7 +349,7 @@ p .names{
 }
 
 .skills__html{
-  width: 79%;
+  width: 75%;
 }
 .skills__py{
   width: 65%;
